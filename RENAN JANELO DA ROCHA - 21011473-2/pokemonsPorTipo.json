@@ -1,0 +1,5918 @@
+{
+  "grass": [
+    {
+      "name": "bulbasaur",
+      "type": "grass",
+      "dex": 1,
+      "height": 7,
+      "weight": 69,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 49
+        },
+        {
+          "statName": "defense",
+          "value": 49
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "grass-pledge",
+        "leaf-storm",
+        "bide",
+        "frustration"
+      ]
+    },
+    {
+      "name": "ivysaur",
+      "type": "grass",
+      "dex": 2,
+      "height": 10,
+      "weight": 130,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 62
+        },
+        {
+          "statName": "defense",
+          "value": 63
+        },
+        {
+          "statName": "special-attack",
+          "value": 80
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "knock-off",
+        "rest",
+        "growl",
+        "vine-whip"
+      ]
+    },
+    {
+      "name": "venusaur",
+      "type": "grass",
+      "dex": 3,
+      "height": 20,
+      "weight": 1000,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 82
+        },
+        {
+          "statName": "defense",
+          "value": 83
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "rest",
+        "return",
+        "charm",
+        "petal-blizzard"
+      ]
+    },
+    {
+      "name": "oddish",
+      "type": "grass",
+      "dex": 43,
+      "height": 5,
+      "weight": 54,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 75
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "headbutt",
+        "acid",
+        "swords-dance",
+        "absorb"
+      ]
+    },
+    {
+      "name": "gloom",
+      "type": "grass",
+      "dex": 44,
+      "height": 8,
+      "weight": 86,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "drain-punch",
+        "flash",
+        "curse",
+        "hidden-power"
+      ]
+    },
+    {
+      "name": "vileplume",
+      "type": "grass",
+      "dex": 45,
+      "height": 12,
+      "weight": 186,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 75
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 85
+        },
+        {
+          "statName": "special-attack",
+          "value": 110
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "sludge-bomb",
+        "frustration",
+        "confide",
+        "mega-drain"
+      ]
+    },
+    {
+      "name": "bellsprout",
+      "type": "grass",
+      "dex": 69,
+      "height": 7,
+      "weight": 40,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 75
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 30
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "flash",
+        "rage",
+        "protect",
+        "hidden-power"
+      ]
+    },
+    {
+      "name": "weepinbell",
+      "type": "grass",
+      "dex": 70,
+      "height": 10,
+      "weight": 64,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "confide",
+        "swords-dance",
+        "wrap",
+        "poison-powder"
+      ]
+    },
+    {
+      "name": "victreebel",
+      "type": "grass",
+      "dex": 71,
+      "height": 17,
+      "weight": 155,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "natural-gift",
+        "venoshock",
+        "frustration",
+        "facade"
+      ]
+    },
+    {
+      "name": "exeggcute",
+      "type": "grass",
+      "dex": 102,
+      "height": 4,
+      "weight": 25,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 40
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "mimic",
+        "confusion",
+        "moonlight",
+        "attract"
+      ]
+    },
+    {
+      "name": "exeggutor",
+      "type": "grass",
+      "dex": 103,
+      "height": 20,
+      "weight": 1200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 95
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 85
+        },
+        {
+          "statName": "special-attack",
+          "value": 125
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "toxic",
+        "absorb",
+        "infestation",
+        "bulldoze"
+      ]
+    },
+    {
+      "name": "tangela",
+      "type": "grass",
+      "dex": 114,
+      "height": 10,
+      "weight": 350,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 115
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "endure",
+        "rest",
+        "knock-off",
+        "substitute"
+      ]
+    }
+  ],
+  "fire": [
+    {
+      "name": "charmander",
+      "type": "fire",
+      "dex": 4,
+      "height": 6,
+      "weight": 85,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 39
+        },
+        {
+          "statName": "attack",
+          "value": 52
+        },
+        {
+          "statName": "defense",
+          "value": 43
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "rock-slide",
+        "body-slam",
+        "sunny-day",
+        "scary-face"
+      ]
+    },
+    {
+      "name": "charmeleon",
+      "type": "fire",
+      "dex": 5,
+      "height": 11,
+      "weight": 190,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 58
+        },
+        {
+          "statName": "attack",
+          "value": 64
+        },
+        {
+          "statName": "defense",
+          "value": 58
+        },
+        {
+          "statName": "special-attack",
+          "value": 80
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "tera-blast",
+        "rest",
+        "dragon-rage",
+        "dragon-dance"
+      ]
+    },
+    {
+      "name": "charizard",
+      "type": "fire",
+      "dex": 6,
+      "height": 17,
+      "weight": 905,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 78
+        },
+        {
+          "statName": "attack",
+          "value": 84
+        },
+        {
+          "statName": "defense",
+          "value": 78
+        },
+        {
+          "statName": "special-attack",
+          "value": 109
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "defog",
+        "power-up-punch",
+        "fire-spin",
+        "fling"
+      ]
+    },
+    {
+      "name": "vulpix",
+      "type": "fire",
+      "dex": 37,
+      "height": 6,
+      "weight": 99,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 38
+        },
+        {
+          "statName": "attack",
+          "value": 41
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "pain-split",
+        "attract",
+        "swift",
+        "safeguard"
+      ]
+    },
+    {
+      "name": "ninetales",
+      "type": "fire",
+      "dex": 38,
+      "height": 11,
+      "weight": 199,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 73
+        },
+        {
+          "statName": "attack",
+          "value": 76
+        },
+        {
+          "statName": "defense",
+          "value": 75
+        },
+        {
+          "statName": "special-attack",
+          "value": 81
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "hex",
+        "nasty-plot",
+        "iron-tail",
+        "calm-mind"
+      ]
+    },
+    {
+      "name": "growlithe",
+      "type": "fire",
+      "dex": 58,
+      "height": 7,
+      "weight": 190,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "tera-blast",
+        "iron-tail",
+        "headbutt",
+        "natural-gift"
+      ]
+    },
+    {
+      "name": "arcanine",
+      "type": "fire",
+      "dex": 59,
+      "height": 19,
+      "weight": 1550,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 110
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 95
+        }
+      ],
+      "moves": [
+        "tera-blast",
+        "dig",
+        "secret-power",
+        "strength"
+      ]
+    },
+    {
+      "name": "ponyta",
+      "type": "fire",
+      "dex": 77,
+      "height": 10,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 85
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "facade",
+        "hypnosis",
+        "strength",
+        "mimic"
+      ]
+    },
+    {
+      "name": "rapidash",
+      "type": "fire",
+      "dex": 78,
+      "height": 17,
+      "weight": 950,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 80
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 105
+        }
+      ],
+      "moves": [
+        "smart-strike",
+        "solar-beam",
+        "tackle",
+        "return"
+      ]
+    },
+    {
+      "name": "magmar",
+      "type": "fire",
+      "dex": 126,
+      "height": 13,
+      "weight": 445,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 57
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 93
+        }
+      ],
+      "moves": [
+        "dynamic-punch",
+        "rock-climb",
+        "sleep-talk",
+        "power-up-punch"
+      ]
+    },
+    {
+      "name": "flareon",
+      "type": "fire",
+      "dex": 136,
+      "height": 9,
+      "weight": 250,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 130
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 110
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "stored-power",
+        "laser-focus",
+        "burning-jealousy",
+        "roar"
+      ]
+    },
+    {
+      "name": "moltres",
+      "type": "fire",
+      "dex": 146,
+      "height": 20,
+      "weight": 600,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 90
+        },
+        {
+          "statName": "special-attack",
+          "value": 125
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "flamethrower",
+        "razor-wind",
+        "facade",
+        "burning-jealousy"
+      ]
+    }
+  ],
+  "water": [
+    {
+      "name": "squirtle",
+      "type": "water",
+      "dex": 7,
+      "height": 5,
+      "weight": 90,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 44
+        },
+        {
+          "statName": "attack",
+          "value": 48
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 64
+        },
+        {
+          "statName": "speed",
+          "value": 43
+        }
+      ],
+      "moves": [
+        "snore",
+        "helping-hand",
+        "confide",
+        "life-dew"
+      ]
+    },
+    {
+      "name": "wartortle",
+      "type": "water",
+      "dex": 8,
+      "height": 10,
+      "weight": 225,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 59
+        },
+        {
+          "statName": "attack",
+          "value": 63
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 58
+        }
+      ],
+      "moves": [
+        "dynamic-punch",
+        "rest",
+        "gyro-ball",
+        "curse"
+      ]
+    },
+    {
+      "name": "blastoise",
+      "type": "water",
+      "dex": 9,
+      "height": 16,
+      "weight": 855,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 79
+        },
+        {
+          "statName": "attack",
+          "value": 83
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 105
+        },
+        {
+          "statName": "speed",
+          "value": 78
+        }
+      ],
+      "moves": [
+        "surf",
+        "body-press",
+        "water-gun",
+        "iron-tail"
+      ]
+    },
+    {
+      "name": "psyduck",
+      "type": "water",
+      "dex": 54,
+      "height": 8,
+      "weight": 196,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 52
+        },
+        {
+          "statName": "defense",
+          "value": 48
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "trailblaze",
+        "dynamic-punch",
+        "headbutt",
+        "return"
+      ]
+    },
+    {
+      "name": "golduck",
+      "type": "water",
+      "dex": 55,
+      "height": 17,
+      "weight": 766,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 82
+        },
+        {
+          "statName": "defense",
+          "value": 78
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "rain-dance",
+        "brine",
+        "pay-day",
+        "low-kick"
+      ]
+    },
+    {
+      "name": "poliwag",
+      "type": "water",
+      "dex": 60,
+      "height": 6,
+      "weight": 124,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "water-sport",
+        "bulldoze",
+        "refresh",
+        "skull-bash"
+      ]
+    },
+    {
+      "name": "poliwhirl",
+      "type": "water",
+      "dex": 61,
+      "height": 10,
+      "weight": 200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "mud-slap",
+        "earthquake",
+        "double-edge",
+        "water-gun"
+      ]
+    },
+    {
+      "name": "poliwrath",
+      "type": "water",
+      "dex": 62,
+      "height": 13,
+      "weight": 540,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "seismic-toss",
+        "captivate",
+        "substitute",
+        "hail"
+      ]
+    },
+    {
+      "name": "tentacool",
+      "type": "water",
+      "dex": 72,
+      "height": 9,
+      "weight": 455,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 40
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "wring-out",
+        "scald",
+        "supersonic",
+        "poison-jab"
+      ]
+    },
+    {
+      "name": "tentacruel",
+      "type": "water",
+      "dex": 73,
+      "height": 16,
+      "weight": 550,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 80
+        },
+        {
+          "statName": "special-defense",
+          "value": 120
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "facade",
+        "giga-drain",
+        "bind",
+        "captivate"
+      ]
+    },
+    {
+      "name": "slowpoke",
+      "type": "water",
+      "dex": 79,
+      "height": 12,
+      "weight": 360,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 15
+        }
+      ],
+      "moves": [
+        "water-pulse",
+        "whirlpool",
+        "pay-day",
+        "teleport"
+      ]
+    },
+    {
+      "name": "slowbro",
+      "type": "water",
+      "dex": 80,
+      "height": 16,
+      "weight": 785,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 95
+        },
+        {
+          "statName": "attack",
+          "value": 75
+        },
+        {
+          "statName": "defense",
+          "value": 110
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "sleep-talk",
+        "shadow-ball",
+        "blizzard",
+        "mega-punch"
+      ]
+    },
+    {
+      "name": "seel",
+      "type": "water",
+      "dex": 86,
+      "height": 11,
+      "weight": 900,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "aqua-ring",
+        "megahorn",
+        "disable",
+        "surf"
+      ]
+    },
+    {
+      "name": "dewgong",
+      "type": "water",
+      "dex": 87,
+      "height": 17,
+      "weight": 1200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "iron-tail",
+        "snore",
+        "hyper-beam",
+        "aqua-jet"
+      ]
+    },
+    {
+      "name": "shellder",
+      "type": "water",
+      "dex": 90,
+      "height": 3,
+      "weight": 40,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "headbutt",
+        "spikes",
+        "helping-hand",
+        "attract"
+      ]
+    },
+    {
+      "name": "cloyster",
+      "type": "water",
+      "dex": 91,
+      "height": 15,
+      "weight": 1325,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 180
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "double-edge",
+        "water-gun",
+        "rock-blast",
+        "take-down"
+      ]
+    },
+    {
+      "name": "krabby",
+      "type": "water",
+      "dex": 98,
+      "height": 4,
+      "weight": 65,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 90
+        },
+        {
+          "statName": "special-attack",
+          "value": 25
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "rain-dance",
+        "water-gun",
+        "whirlpool",
+        "cut"
+      ]
+    },
+    {
+      "name": "kingler",
+      "type": "water",
+      "dex": 99,
+      "height": 13,
+      "weight": 600,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 130
+        },
+        {
+          "statName": "defense",
+          "value": 115
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 75
+        }
+      ],
+      "moves": [
+        "fury-cutter",
+        "bubble-beam",
+        "rock-slide",
+        "ally-switch"
+      ]
+    },
+    {
+      "name": "horsea",
+      "type": "water",
+      "dex": 116,
+      "height": 4,
+      "weight": 80,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 40
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "double-team",
+        "frustration",
+        "agility",
+        "razor-wind"
+      ]
+    },
+    {
+      "name": "seadra",
+      "type": "water",
+      "dex": 117,
+      "height": 12,
+      "weight": 250,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "rain-dance",
+        "giga-impact",
+        "attract",
+        "water-gun"
+      ]
+    },
+    {
+      "name": "goldeen",
+      "type": "water",
+      "dex": 118,
+      "height": 6,
+      "weight": 150,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 67
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 63
+        }
+      ],
+      "moves": [
+        "mimic",
+        "scald",
+        "surf",
+        "swift"
+      ]
+    },
+    {
+      "name": "seaking",
+      "type": "water",
+      "dex": 119,
+      "height": 13,
+      "weight": 390,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 92
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 68
+        }
+      ],
+      "moves": [
+        "mud-slap",
+        "toxic",
+        "water-gun",
+        "tail-whip"
+      ]
+    },
+    {
+      "name": "staryu",
+      "type": "water",
+      "dex": 120,
+      "height": 8,
+      "weight": 345,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "mimic",
+        "scald",
+        "surf",
+        "hail"
+      ]
+    },
+    {
+      "name": "starmie",
+      "type": "water",
+      "dex": 121,
+      "height": 11,
+      "weight": 800,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 75
+        },
+        {
+          "statName": "defense",
+          "value": 85
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 115
+        }
+      ],
+      "moves": [
+        "rain-dance",
+        "rest",
+        "surf",
+        "dive"
+      ]
+    },
+    {
+      "name": "magikarp",
+      "type": "water",
+      "dex": 129,
+      "height": 9,
+      "weight": 100,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 20
+        },
+        {
+          "statName": "attack",
+          "value": 10
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 15
+        },
+        {
+          "statName": "special-defense",
+          "value": 20
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "tackle",
+        "splash",
+        "bounce",
+        "hydro-pump"
+      ]
+    },
+    {
+      "name": "gyarados",
+      "type": "water",
+      "dex": 130,
+      "height": 65,
+      "weight": 2350,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 95
+        },
+        {
+          "statName": "attack",
+          "value": 125
+        },
+        {
+          "statName": "defense",
+          "value": 79
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 81
+        }
+      ],
+      "moves": [
+        "chilling-water",
+        "water-gun",
+        "double-edge",
+        "dark-pulse"
+      ]
+    },
+    {
+      "name": "lapras",
+      "type": "water",
+      "dex": 131,
+      "height": 25,
+      "weight": 2200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 130
+        },
+        {
+          "statName": "attack",
+          "value": 85
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "brine",
+        "ice-shard",
+        "water-pulse",
+        "psywave"
+      ]
+    },
+    {
+      "name": "vaporeon",
+      "type": "water",
+      "dex": 134,
+      "height": 10,
+      "weight": 290,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 130
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 110
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "double-team",
+        "giga-impact",
+        "haze",
+        "secret-power"
+      ]
+    }
+  ],
+  "bug": [
+    {
+      "name": "caterpie",
+      "type": "bug",
+      "dex": 10,
+      "height": 3,
+      "weight": 29,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 30
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 20
+        },
+        {
+          "statName": "special-defense",
+          "value": 20
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "electroweb",
+        "string-shot",
+        "snore",
+        "bug-bite"
+      ]
+    },
+    {
+      "name": "metapod",
+      "type": "bug",
+      "dex": 11,
+      "height": 7,
+      "weight": 99,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 20
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 25
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "harden",
+        "iron-defense",
+        "string-shot",
+        "bug-bite"
+      ]
+    },
+    {
+      "name": "butterfree",
+      "type": "bug",
+      "dex": 12,
+      "height": 11,
+      "weight": 320,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 90
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "tailwind",
+        "sleep-talk",
+        "sweet-scent",
+        "facade"
+      ]
+    },
+    {
+      "name": "weedle",
+      "type": "bug",
+      "dex": 13,
+      "height": 3,
+      "weight": 32,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 35
+        },
+        {
+          "statName": "defense",
+          "value": 30
+        },
+        {
+          "statName": "special-attack",
+          "value": 20
+        },
+        {
+          "statName": "special-defense",
+          "value": 20
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "bug-bite",
+        "string-shot",
+        "poison-sting",
+        "electroweb"
+      ]
+    },
+    {
+      "name": "kakuna",
+      "type": "bug",
+      "dex": 14,
+      "height": 6,
+      "weight": 100,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 25
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 25
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "iron-defense",
+        "harden",
+        "string-shot",
+        "bug-bite"
+      ]
+    },
+    {
+      "name": "beedrill",
+      "type": "bug",
+      "dex": 15,
+      "height": 10,
+      "weight": 295,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 75
+        }
+      ],
+      "moves": [
+        "fury-attack",
+        "poison-jab",
+        "brutal-swing",
+        "reflect"
+      ]
+    },
+    {
+      "name": "paras",
+      "type": "bug",
+      "dex": 46,
+      "height": 3,
+      "weight": 54,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 25
+        }
+      ],
+      "moves": [
+        "psybeam",
+        "sunny-day",
+        "bide",
+        "sleep-talk"
+      ]
+    },
+    {
+      "name": "parasect",
+      "type": "bug",
+      "dex": 47,
+      "height": 10,
+      "weight": 295,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "dig",
+        "spore",
+        "double-edge",
+        "sleep-powder"
+      ]
+    },
+    {
+      "name": "venonat",
+      "type": "bug",
+      "dex": 48,
+      "height": 10,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "protect",
+        "infestation",
+        "zen-headbutt",
+        "bug-buzz"
+      ]
+    },
+    {
+      "name": "venomoth",
+      "type": "bug",
+      "dex": 49,
+      "height": 15,
+      "weight": 125,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 90
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "acrobatics",
+        "natural-gift",
+        "giga-impact",
+        "psychic"
+      ]
+    },
+    {
+      "name": "scyther",
+      "type": "bug",
+      "dex": 123,
+      "height": 15,
+      "weight": 560,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 110
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 105
+        }
+      ],
+      "moves": [
+        "double-edge",
+        "brick-break",
+        "focus-energy",
+        "baton-pass"
+      ]
+    },
+    {
+      "name": "pinsir",
+      "type": "bug",
+      "dex": 127,
+      "height": 15,
+      "weight": 550,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 125
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "earthquake",
+        "feint-attack",
+        "double-hit",
+        "rock-slide"
+      ]
+    }
+  ],
+  "normal": [
+    {
+      "name": "pidgey",
+      "type": "normal",
+      "dex": 16,
+      "height": 3,
+      "weight": 18,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 35
+        },
+        {
+          "statName": "speed",
+          "value": 56
+        }
+      ],
+      "moves": [
+        "sleep-talk",
+        "natural-gift",
+        "reflect",
+        "hidden-power"
+      ]
+    },
+    {
+      "name": "pidgeotto",
+      "type": "normal",
+      "dex": 17,
+      "height": 11,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 63
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 71
+        }
+      ],
+      "moves": [
+        "heat-wave",
+        "rage",
+        "double-team",
+        "double-edge"
+      ]
+    },
+    {
+      "name": "pidgeot",
+      "type": "normal",
+      "dex": 18,
+      "height": 15,
+      "weight": 395,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 83
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 75
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 101
+        }
+      ],
+      "moves": [
+        "curse",
+        "quick-attack",
+        "secret-power",
+        "pluck"
+      ]
+    },
+    {
+      "name": "rattata",
+      "type": "normal",
+      "dex": 19,
+      "height": 3,
+      "weight": 35,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 56
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 25
+        },
+        {
+          "statName": "special-defense",
+          "value": 35
+        },
+        {
+          "statName": "speed",
+          "value": 72
+        }
+      ],
+      "moves": [
+        "sunny-day",
+        "shadow-ball",
+        "covet",
+        "iron-tail"
+      ]
+    },
+    {
+      "name": "raticate",
+      "type": "normal",
+      "dex": 20,
+      "height": 7,
+      "weight": 185,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 81
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 97
+        }
+      ],
+      "moves": [
+        "work-up",
+        "double-edge",
+        "swords-dance",
+        "throat-chop"
+      ]
+    },
+    {
+      "name": "spearow",
+      "type": "normal",
+      "dex": 21,
+      "height": 3,
+      "weight": 20,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 30
+        },
+        {
+          "statName": "special-attack",
+          "value": 31
+        },
+        {
+          "statName": "special-defense",
+          "value": 31
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "mud-slap",
+        "pluck",
+        "facade",
+        "twister"
+      ]
+    },
+    {
+      "name": "fearow",
+      "type": "normal",
+      "dex": 22,
+      "height": 12,
+      "weight": 380,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 61
+        },
+        {
+          "statName": "special-defense",
+          "value": 61
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "rest",
+        "rage",
+        "frustration",
+        "facade"
+      ]
+    },
+    {
+      "name": "jigglypuff",
+      "type": "normal",
+      "dex": 39,
+      "height": 5,
+      "weight": 55,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 115
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 20
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 25
+        },
+        {
+          "statName": "speed",
+          "value": 20
+        }
+      ],
+      "moves": [
+        "last-resort",
+        "pound",
+        "counter",
+        "incinerate"
+      ]
+    },
+    {
+      "name": "wigglytuff",
+      "type": "normal",
+      "dex": 40,
+      "height": 10,
+      "weight": 120,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 140
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "dig",
+        "rage",
+        "thunder-punch",
+        "laser-focus"
+      ]
+    },
+    {
+      "name": "meowth",
+      "type": "normal",
+      "dex": 52,
+      "height": 4,
+      "weight": 42,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "work-up",
+        "bide",
+        "pay-day",
+        "swift"
+      ]
+    },
+    {
+      "name": "persian",
+      "type": "normal",
+      "dex": 53,
+      "height": 10,
+      "weight": 320,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 115
+        }
+      ],
+      "moves": [
+        "thief",
+        "echoed-voice",
+        "assurance",
+        "take-down"
+      ]
+    },
+    {
+      "name": "farfetchd",
+      "type": "normal",
+      "dex": 83,
+      "height": 8,
+      "weight": 150,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 52
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 58
+        },
+        {
+          "statName": "special-defense",
+          "value": 62
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "endure",
+        "twister",
+        "pluck",
+        "revenge"
+      ]
+    },
+    {
+      "name": "doduo",
+      "type": "normal",
+      "dex": 84,
+      "height": 14,
+      "weight": 392,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 85
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 35
+        },
+        {
+          "statName": "speed",
+          "value": 75
+        }
+      ],
+      "moves": [
+        "growl",
+        "flail",
+        "mirror-move",
+        "fly"
+      ]
+    },
+    {
+      "name": "dodrio",
+      "type": "normal",
+      "dex": 85,
+      "height": 18,
+      "weight": 852,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 110
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 60
+        },
+        {
+          "statName": "speed",
+          "value": 110
+        }
+      ],
+      "moves": [
+        "double-edge",
+        "pursuit",
+        "rest",
+        "hyper-beam"
+      ]
+    },
+    {
+      "name": "lickitung",
+      "type": "normal",
+      "dex": 108,
+      "height": 12,
+      "weight": 655,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 75
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "wrap",
+        "round",
+        "helping-hand",
+        "stomping-tantrum"
+      ]
+    },
+    {
+      "name": "chansey",
+      "type": "normal",
+      "dex": 113,
+      "height": 11,
+      "weight": 346,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 250
+        },
+        {
+          "statName": "attack",
+          "value": 5
+        },
+        {
+          "statName": "defense",
+          "value": 5
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 105
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "heal-pulse",
+        "egg-bomb",
+        "reflect",
+        "last-resort"
+      ]
+    },
+    {
+      "name": "kangaskhan",
+      "type": "normal",
+      "dex": 115,
+      "height": 22,
+      "weight": 800,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 105
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "ice-punch",
+        "counter",
+        "double-team",
+        "attract"
+      ]
+    },
+    {
+      "name": "tauros",
+      "type": "normal",
+      "dex": 128,
+      "height": 14,
+      "weight": 884,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 75
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 110
+        }
+      ],
+      "moves": [
+        "assurance",
+        "scary-face",
+        "facade",
+        "endeavor"
+      ]
+    },
+    {
+      "name": "ditto",
+      "type": "normal",
+      "dex": 132,
+      "height": 3,
+      "weight": 40,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 48
+        },
+        {
+          "statName": "attack",
+          "value": 48
+        },
+        {
+          "statName": "defense",
+          "value": 48
+        },
+        {
+          "statName": "special-attack",
+          "value": 48
+        },
+        {
+          "statName": "special-defense",
+          "value": 48
+        },
+        {
+          "statName": "speed",
+          "value": 48
+        }
+      ],
+      "moves": [
+        "transform"
+      ]
+    },
+    {
+      "name": "eevee",
+      "type": "normal",
+      "dex": 133,
+      "height": 3,
+      "weight": 65,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "bide",
+        "double-team",
+        "facade",
+        "bite"
+      ]
+    },
+    {
+      "name": "porygon",
+      "type": "normal",
+      "dex": 137,
+      "height": 8,
+      "weight": 365,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "secret-power",
+        "ice-beam",
+        "agility",
+        "double-edge"
+      ]
+    },
+    {
+      "name": "snorlax",
+      "type": "normal",
+      "dex": 143,
+      "height": 21,
+      "weight": 4600,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 160
+        },
+        {
+          "statName": "attack",
+          "value": 110
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 110
+        },
+        {
+          "statName": "speed",
+          "value": 30
+        }
+      ],
+      "moves": [
+        "psych-up",
+        "outrage",
+        "hydro-pump",
+        "stomping-tantrum"
+      ]
+    }
+  ],
+  "poison": [
+    {
+      "name": "ekans",
+      "type": "poison",
+      "dex": 23,
+      "height": 20,
+      "weight": 69,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 44
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 54
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "stockpile",
+        "swagger",
+        "rain-dance",
+        "captivate"
+      ]
+    },
+    {
+      "name": "arbok",
+      "type": "poison",
+      "dex": 24,
+      "height": 35,
+      "weight": 650,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 69
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 79
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "swallow",
+        "glare",
+        "slam",
+        "mega-drain"
+      ]
+    },
+    {
+      "name": "nidoran-f",
+      "type": "poison",
+      "dex": 29,
+      "height": 4,
+      "weight": 70,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 47
+        },
+        {
+          "statName": "defense",
+          "value": 52
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 41
+        }
+      ],
+      "moves": [
+        "toxic",
+        "thunderbolt",
+        "poison-sting",
+        "curse"
+      ]
+    },
+    {
+      "name": "nidorina",
+      "type": "poison",
+      "dex": 30,
+      "height": 8,
+      "weight": 200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 62
+        },
+        {
+          "statName": "defense",
+          "value": 67
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 56
+        }
+      ],
+      "moves": [
+        "sunny-day",
+        "frustration",
+        "shock-wave",
+        "endure"
+      ]
+    },
+    {
+      "name": "nidoqueen",
+      "type": "poison",
+      "dex": 31,
+      "height": 13,
+      "weight": 600,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 92
+        },
+        {
+          "statName": "defense",
+          "value": 87
+        },
+        {
+          "statName": "special-attack",
+          "value": 75
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 76
+        }
+      ],
+      "moves": [
+        "aqua-tail",
+        "dragon-pulse",
+        "ice-punch",
+        "poison-sting"
+      ]
+    },
+    {
+      "name": "nidoran-m",
+      "type": "poison",
+      "dex": 32,
+      "height": 5,
+      "weight": 90,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 46
+        },
+        {
+          "statName": "attack",
+          "value": 57
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "round",
+        "chip-away",
+        "counter",
+        "venom-drench"
+      ]
+    },
+    {
+      "name": "nidorino",
+      "type": "poison",
+      "dex": 33,
+      "height": 9,
+      "weight": 195,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 61
+        },
+        {
+          "statName": "attack",
+          "value": 72
+        },
+        {
+          "statName": "defense",
+          "value": 57
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "facade",
+        "mimic",
+        "horn-attack",
+        "thief"
+      ]
+    },
+    {
+      "name": "nidoking",
+      "type": "poison",
+      "dex": 34,
+      "height": 14,
+      "weight": 620,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 81
+        },
+        {
+          "statName": "attack",
+          "value": 102
+        },
+        {
+          "statName": "defense",
+          "value": 77
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "mimic",
+        "uproar",
+        "venoshock",
+        "bubble-beam"
+      ]
+    },
+    {
+      "name": "zubat",
+      "type": "poison",
+      "dex": 41,
+      "height": 8,
+      "weight": 75,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 30
+        },
+        {
+          "statName": "special-defense",
+          "value": 40
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "mean-look",
+        "crunch",
+        "heat-wave",
+        "shadow-ball"
+      ]
+    },
+    {
+      "name": "golbat",
+      "type": "poison",
+      "dex": 42,
+      "height": 16,
+      "weight": 550,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 75
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "mega-drain",
+        "shadow-ball",
+        "astonish",
+        "attract"
+      ]
+    },
+    {
+      "name": "grimer",
+      "type": "poison",
+      "dex": 88,
+      "height": 9,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 25
+        }
+      ],
+      "moves": [
+        "acid-armor",
+        "mud-bomb",
+        "mud-shot",
+        "thunder"
+      ]
+    },
+    {
+      "name": "muk",
+      "type": "poison",
+      "dex": 89,
+      "height": 12,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 105
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 75
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "rock-tomb",
+        "confuse-ray",
+        "headbutt",
+        "screech"
+      ]
+    },
+    {
+      "name": "koffing",
+      "type": "poison",
+      "dex": 109,
+      "height": 6,
+      "weight": 10,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "smokescreen",
+        "rest",
+        "spite",
+        "poison-gas"
+      ]
+    },
+    {
+      "name": "weezing",
+      "type": "poison",
+      "dex": 110,
+      "height": 12,
+      "weight": 95,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 120
+        },
+        {
+          "statName": "special-attack",
+          "value": 85
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "smog",
+        "flash",
+        "bide",
+        "rage"
+      ]
+    }
+  ],
+  "electric": [
+    {
+      "name": "pikachu",
+      "type": "electric",
+      "dex": 25,
+      "height": 4,
+      "weight": 60,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 40
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "defense-curl",
+        "slam",
+        "counter",
+        "curse"
+      ]
+    },
+    {
+      "name": "raichu",
+      "type": "electric",
+      "dex": 26,
+      "height": 8,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 55
+        },
+        {
+          "statName": "special-attack",
+          "value": 90
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 110
+        }
+      ],
+      "moves": [
+        "protect",
+        "zap-cannon",
+        "thunder-punch",
+        "swagger"
+      ]
+    },
+    {
+      "name": "magnemite",
+      "type": "electric",
+      "dex": 81,
+      "height": 3,
+      "weight": 60,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 25
+        },
+        {
+          "statName": "attack",
+          "value": 35
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "toxic",
+        "sunny-day",
+        "endure",
+        "snore"
+      ]
+    },
+    {
+      "name": "magneton",
+      "type": "electric",
+      "dex": 82,
+      "height": 10,
+      "weight": 600,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 120
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "gyro-ball",
+        "iron-head",
+        "discharge",
+        "lock-on"
+      ]
+    },
+    {
+      "name": "voltorb",
+      "type": "electric",
+      "dex": 100,
+      "height": 5,
+      "weight": 104,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 30
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "bide",
+        "sucker-punch",
+        "charge",
+        "thunderbolt"
+      ]
+    },
+    {
+      "name": "electrode",
+      "type": "electric",
+      "dex": 101,
+      "height": 12,
+      "weight": 666,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 80
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 150
+        }
+      ],
+      "moves": [
+        "magnetic-flux",
+        "giga-impact",
+        "return",
+        "swagger"
+      ]
+    },
+    {
+      "name": "electabuzz",
+      "type": "electric",
+      "dex": 125,
+      "height": 11,
+      "weight": 300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 83
+        },
+        {
+          "statName": "defense",
+          "value": 57
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 105
+        }
+      ],
+      "moves": [
+        "body-slam",
+        "brick-break",
+        "bide",
+        "counter"
+      ]
+    },
+    {
+      "name": "jolteon",
+      "type": "electric",
+      "dex": 135,
+      "height": 8,
+      "weight": 245,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 110
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 130
+        }
+      ],
+      "moves": [
+        "baby-doll-eyes",
+        "rage",
+        "stored-power",
+        "charm"
+      ]
+    },
+    {
+      "name": "zapdos",
+      "type": "electric",
+      "dex": 145,
+      "height": 16,
+      "weight": 526,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 90
+        },
+        {
+          "statName": "defense",
+          "value": 85
+        },
+        {
+          "statName": "special-attack",
+          "value": 125
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "rest",
+        "sky-attack",
+        "ominous-wind",
+        "pluck"
+      ]
+    }
+  ],
+  "ground": [
+    {
+      "name": "sandshrew",
+      "type": "ground",
+      "dex": 27,
+      "height": 6,
+      "weight": 120,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 75
+        },
+        {
+          "statName": "defense",
+          "value": 85
+        },
+        {
+          "statName": "special-attack",
+          "value": 20
+        },
+        {
+          "statName": "special-defense",
+          "value": 30
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "detect",
+        "chip-away",
+        "curse",
+        "attract"
+      ]
+    },
+    {
+      "name": "sandslash",
+      "type": "ground",
+      "dex": 28,
+      "height": 10,
+      "weight": 295,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 75
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 110
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 65
+        }
+      ],
+      "moves": [
+        "confide",
+        "aerial-ace",
+        "poison-sting",
+        "slash"
+      ]
+    },
+    {
+      "name": "diglett",
+      "type": "ground",
+      "dex": 50,
+      "height": 2,
+      "weight": 8,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 10
+        },
+        {
+          "statName": "attack",
+          "value": 55
+        },
+        {
+          "statName": "defense",
+          "value": 25
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 95
+        }
+      ],
+      "moves": [
+        "sand-attack",
+        "bide",
+        "protect",
+        "ancient-power"
+      ]
+    },
+    {
+      "name": "dugtrio",
+      "type": "ground",
+      "dex": 51,
+      "height": 7,
+      "weight": 333,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 120
+        }
+      ],
+      "moves": [
+        "double-edge",
+        "rest",
+        "protect",
+        "round"
+      ]
+    },
+    {
+      "name": "cubone",
+      "type": "ground",
+      "dex": 104,
+      "height": 4,
+      "weight": 65,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 40
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "fury-cutter",
+        "stomping-tantrum",
+        "snore",
+        "blizzard"
+      ]
+    },
+    {
+      "name": "marowak",
+      "type": "ground",
+      "dex": 105,
+      "height": 10,
+      "weight": 450,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 110
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 80
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "secret-power",
+        "rock-tomb",
+        "swagger",
+        "echoed-voice"
+      ]
+    },
+    {
+      "name": "rhyhorn",
+      "type": "ground",
+      "dex": 111,
+      "height": 10,
+      "weight": 1150,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 85
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 30
+        },
+        {
+          "statName": "special-defense",
+          "value": 30
+        },
+        {
+          "statName": "speed",
+          "value": 25
+        }
+      ],
+      "moves": [
+        "crush-claw",
+        "drill-run",
+        "swagger",
+        "endeavor"
+      ]
+    },
+    {
+      "name": "rhydon",
+      "type": "ground",
+      "dex": 112,
+      "height": 19,
+      "weight": 1200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 105
+        },
+        {
+          "statName": "attack",
+          "value": 130
+        },
+        {
+          "statName": "defense",
+          "value": 120
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 40
+        }
+      ],
+      "moves": [
+        "fissure",
+        "focus-punch",
+        "rock-climb",
+        "stone-edge"
+      ]
+    }
+  ],
+  "fairy": [
+    {
+      "name": "clefairy",
+      "type": "fairy",
+      "dex": 35,
+      "height": 6,
+      "weight": 75,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 48
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "role-play",
+        "flash",
+        "lucky-chant",
+        "sunny-day"
+      ]
+    },
+    {
+      "name": "clefable",
+      "type": "fairy",
+      "dex": 36,
+      "height": 13,
+      "weight": 400,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 95
+        },
+        {
+          "statName": "attack",
+          "value": 70
+        },
+        {
+          "statName": "defense",
+          "value": 73
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 60
+        }
+      ],
+      "moves": [
+        "rage",
+        "double-edge",
+        "dream-eater",
+        "encore"
+      ]
+    }
+  ],
+  "fighting": [
+    {
+      "name": "mankey",
+      "type": "fighting",
+      "dex": 56,
+      "height": 5,
+      "weight": 280,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "dig",
+        "defense-curl",
+        "poison-jab",
+        "protect"
+      ]
+    },
+    {
+      "name": "primeape",
+      "type": "fighting",
+      "dex": 57,
+      "height": 10,
+      "weight": 320,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 95
+        }
+      ],
+      "moves": [
+        "captivate",
+        "headbutt",
+        "stone-edge",
+        "mega-kick"
+      ]
+    },
+    {
+      "name": "machop",
+      "type": "fighting",
+      "dex": 66,
+      "height": 8,
+      "weight": 195,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 50
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 35
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "vacuum-wave",
+        "payback",
+        "swagger",
+        "earthquake"
+      ]
+    },
+    {
+      "name": "machoke",
+      "type": "fighting",
+      "dex": 67,
+      "height": 15,
+      "weight": 705,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 60
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "low-sweep",
+        "mimic",
+        "role-play",
+        "natural-gift"
+      ]
+    },
+    {
+      "name": "machamp",
+      "type": "fighting",
+      "dex": 68,
+      "height": 16,
+      "weight": 1300,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 130
+        },
+        {
+          "statName": "defense",
+          "value": 80
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 85
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "mimic",
+        "mud-slap",
+        "protect",
+        "skull-bash"
+      ]
+    },
+    {
+      "name": "hitmonlee",
+      "type": "fighting",
+      "dex": 106,
+      "height": 15,
+      "weight": 498,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 120
+        },
+        {
+          "statName": "defense",
+          "value": 53
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 110
+        },
+        {
+          "statName": "speed",
+          "value": 87
+        }
+      ],
+      "moves": [
+        "mimic",
+        "double-edge",
+        "rage",
+        "strength"
+      ]
+    },
+    {
+      "name": "hitmonchan",
+      "type": "fighting",
+      "dex": 107,
+      "height": 14,
+      "weight": 502,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 50
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 79
+        },
+        {
+          "statName": "special-attack",
+          "value": 35
+        },
+        {
+          "statName": "special-defense",
+          "value": 110
+        },
+        {
+          "statName": "speed",
+          "value": 76
+        }
+      ],
+      "moves": [
+        "hidden-power",
+        "protect",
+        "uproar",
+        "ice-punch"
+      ]
+    }
+  ],
+  "psychic": [
+    {
+      "name": "abra",
+      "type": "psychic",
+      "dex": 63,
+      "height": 9,
+      "weight": 195,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 25
+        },
+        {
+          "statName": "attack",
+          "value": 20
+        },
+        {
+          "statName": "defense",
+          "value": 15
+        },
+        {
+          "statName": "special-attack",
+          "value": 105
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "nightmare",
+        "dynamic-punch",
+        "shadow-ball",
+        "taunt"
+      ]
+    },
+    {
+      "name": "kadabra",
+      "type": "psychic",
+      "dex": 64,
+      "height": 13,
+      "weight": 565,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 35
+        },
+        {
+          "statName": "defense",
+          "value": 30
+        },
+        {
+          "statName": "special-attack",
+          "value": 120
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 105
+        }
+      ],
+      "moves": [
+        "psycho-cut",
+        "trick-room",
+        "swift",
+        "iron-tail"
+      ]
+    },
+    {
+      "name": "alakazam",
+      "type": "psychic",
+      "dex": 65,
+      "height": 15,
+      "weight": 480,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 135
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 120
+        }
+      ],
+      "moves": [
+        "round",
+        "charge-beam",
+        "dynamic-punch",
+        "endure"
+      ]
+    },
+    {
+      "name": "drowzee",
+      "type": "psychic",
+      "dex": 96,
+      "height": 10,
+      "weight": 324,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 48
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 43
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 42
+        }
+      ],
+      "moves": [
+        "night-shade",
+        "double-team",
+        "curse",
+        "barrier"
+      ]
+    },
+    {
+      "name": "hypno",
+      "type": "psychic",
+      "dex": 97,
+      "height": 16,
+      "weight": 756,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 85
+        },
+        {
+          "statName": "attack",
+          "value": 73
+        },
+        {
+          "statName": "defense",
+          "value": 70
+        },
+        {
+          "statName": "special-attack",
+          "value": 73
+        },
+        {
+          "statName": "special-defense",
+          "value": 115
+        },
+        {
+          "statName": "speed",
+          "value": 67
+        }
+      ],
+      "moves": [
+        "mega-punch",
+        "future-sight",
+        "swagger",
+        "toxic"
+      ]
+    },
+    {
+      "name": "mr-mime",
+      "type": "psychic",
+      "dex": 122,
+      "height": 13,
+      "weight": 545,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 120
+        },
+        {
+          "statName": "speed",
+          "value": 90
+        }
+      ],
+      "moves": [
+        "rage",
+        "facade",
+        "magic-room",
+        "zap-cannon"
+      ]
+    },
+    {
+      "name": "mewtwo",
+      "type": "psychic",
+      "dex": 150,
+      "height": 20,
+      "weight": 1220,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 106
+        },
+        {
+          "statName": "attack",
+          "value": 110
+        },
+        {
+          "statName": "defense",
+          "value": 90
+        },
+        {
+          "statName": "special-attack",
+          "value": 154
+        },
+        {
+          "statName": "special-defense",
+          "value": 90
+        },
+        {
+          "statName": "speed",
+          "value": 130
+        }
+      ],
+      "moves": [
+        "swift",
+        "submission",
+        "round",
+        "thunderbolt"
+      ]
+    },
+    {
+      "name": "mew",
+      "type": "psychic",
+      "dex": 151,
+      "height": 4,
+      "weight": 40,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 100
+        },
+        {
+          "statName": "attack",
+          "value": 100
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 100
+        }
+      ],
+      "moves": [
+        "swift",
+        "shadow-claw",
+        "rock-polish",
+        "draining-kiss"
+      ]
+    }
+  ],
+  "rock": [
+    {
+      "name": "geodude",
+      "type": "rock",
+      "dex": 74,
+      "height": 4,
+      "weight": 200,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 40
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 30
+        },
+        {
+          "statName": "special-defense",
+          "value": 30
+        },
+        {
+          "statName": "speed",
+          "value": 20
+        }
+      ],
+      "moves": [
+        "iron-defense",
+        "secret-power",
+        "mud-sport",
+        "sucker-punch"
+      ]
+    },
+    {
+      "name": "graveler",
+      "type": "rock",
+      "dex": 75,
+      "height": 10,
+      "weight": 1050,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 55
+        },
+        {
+          "statName": "attack",
+          "value": 95
+        },
+        {
+          "statName": "defense",
+          "value": 115
+        },
+        {
+          "statName": "special-attack",
+          "value": 45
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "hidden-power",
+        "sleep-talk",
+        "seismic-toss",
+        "self-destruct"
+      ]
+    },
+    {
+      "name": "golem",
+      "type": "rock",
+      "dex": 76,
+      "height": 14,
+      "weight": 3000,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 120
+        },
+        {
+          "statName": "defense",
+          "value": 130
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 65
+        },
+        {
+          "statName": "speed",
+          "value": 45
+        }
+      ],
+      "moves": [
+        "tackle",
+        "rock-blast",
+        "magnitude",
+        "stealth-rock"
+      ]
+    },
+    {
+      "name": "onix",
+      "type": "rock",
+      "dex": 95,
+      "height": 88,
+      "weight": 2100,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 45
+        },
+        {
+          "statName": "defense",
+          "value": 160
+        },
+        {
+          "statName": "special-attack",
+          "value": 30
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "dragon-breath",
+        "high-horsepower",
+        "curse",
+        "dragon-pulse"
+      ]
+    },
+    {
+      "name": "omanyte",
+      "type": "rock",
+      "dex": 138,
+      "height": 4,
+      "weight": 75,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 35
+        },
+        {
+          "statName": "attack",
+          "value": 40
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 90
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 35
+        }
+      ],
+      "moves": [
+        "knock-off",
+        "tickle",
+        "take-down",
+        "leer"
+      ]
+    },
+    {
+      "name": "omastar",
+      "type": "rock",
+      "dex": 139,
+      "height": 10,
+      "weight": 350,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 70
+        },
+        {
+          "statName": "attack",
+          "value": 60
+        },
+        {
+          "statName": "defense",
+          "value": 125
+        },
+        {
+          "statName": "special-attack",
+          "value": 115
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "hydro-pump",
+        "snore",
+        "horn-drill",
+        "sand-attack"
+      ]
+    },
+    {
+      "name": "kabuto",
+      "type": "rock",
+      "dex": 140,
+      "height": 5,
+      "weight": 115,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 80
+        },
+        {
+          "statName": "defense",
+          "value": 90
+        },
+        {
+          "statName": "special-attack",
+          "value": 55
+        },
+        {
+          "statName": "special-defense",
+          "value": 45
+        },
+        {
+          "statName": "speed",
+          "value": 55
+        }
+      ],
+      "moves": [
+        "aurora-beam",
+        "take-down",
+        "leech-life",
+        "hail"
+      ]
+    },
+    {
+      "name": "kabutops",
+      "type": "rock",
+      "dex": 141,
+      "height": 13,
+      "weight": 405,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 115
+        },
+        {
+          "statName": "defense",
+          "value": 105
+        },
+        {
+          "statName": "special-attack",
+          "value": 65
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "substitute",
+        "brine",
+        "rock-polish",
+        "waterfall"
+      ]
+    },
+    {
+      "name": "aerodactyl",
+      "type": "rock",
+      "dex": 142,
+      "height": 18,
+      "weight": 590,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 80
+        },
+        {
+          "statName": "attack",
+          "value": 105
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 60
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 130
+        }
+      ],
+      "moves": [
+        "bulldoze",
+        "rock-tomb",
+        "iron-head",
+        "double-edge"
+      ]
+    }
+  ],
+  "ghost": [
+    {
+      "name": "gastly",
+      "type": "ghost",
+      "dex": 92,
+      "height": 13,
+      "weight": 1,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 30
+        },
+        {
+          "statName": "attack",
+          "value": 35
+        },
+        {
+          "statName": "defense",
+          "value": 30
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 35
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "icy-wind",
+        "hex",
+        "dark-pulse",
+        "confide"
+      ]
+    },
+    {
+      "name": "haunter",
+      "type": "ghost",
+      "dex": 93,
+      "height": 16,
+      "weight": 1,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 45
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 115
+        },
+        {
+          "statName": "special-defense",
+          "value": 55
+        },
+        {
+          "statName": "speed",
+          "value": 95
+        }
+      ],
+      "moves": [
+        "return",
+        "poltergeist",
+        "poison-jab",
+        "rage"
+      ]
+    },
+    {
+      "name": "gengar",
+      "type": "ghost",
+      "dex": 94,
+      "height": 15,
+      "weight": 405,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 60
+        },
+        {
+          "statName": "attack",
+          "value": 65
+        },
+        {
+          "statName": "defense",
+          "value": 60
+        },
+        {
+          "statName": "special-attack",
+          "value": 130
+        },
+        {
+          "statName": "special-defense",
+          "value": 75
+        },
+        {
+          "statName": "speed",
+          "value": 110
+        }
+      ],
+      "moves": [
+        "telekinesis",
+        "gunk-shot",
+        "submission",
+        "frustration"
+      ]
+    }
+  ],
+  "ice": [
+    {
+      "name": "jynx",
+      "type": "ice",
+      "dex": 124,
+      "height": 14,
+      "weight": 406,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 65
+        },
+        {
+          "statName": "attack",
+          "value": 50
+        },
+        {
+          "statName": "defense",
+          "value": 35
+        },
+        {
+          "statName": "special-attack",
+          "value": 115
+        },
+        {
+          "statName": "special-defense",
+          "value": 95
+        },
+        {
+          "statName": "speed",
+          "value": 95
+        }
+      ],
+      "moves": [
+        "endure",
+        "stored-power",
+        "signal-beam",
+        "focus-punch"
+      ]
+    },
+    {
+      "name": "articuno",
+      "type": "ice",
+      "dex": 144,
+      "height": 17,
+      "weight": 554,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 90
+        },
+        {
+          "statName": "attack",
+          "value": 85
+        },
+        {
+          "statName": "defense",
+          "value": 100
+        },
+        {
+          "statName": "special-attack",
+          "value": 95
+        },
+        {
+          "statName": "special-defense",
+          "value": 125
+        },
+        {
+          "statName": "speed",
+          "value": 85
+        }
+      ],
+      "moves": [
+        "signal-beam",
+        "rock-smash",
+        "facade",
+        "sandstorm"
+      ]
+    }
+  ],
+  "dragon": [
+    {
+      "name": "dratini",
+      "type": "dragon",
+      "dex": 147,
+      "height": 18,
+      "weight": 33,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 41
+        },
+        {
+          "statName": "attack",
+          "value": 64
+        },
+        {
+          "statName": "defense",
+          "value": 45
+        },
+        {
+          "statName": "special-attack",
+          "value": 50
+        },
+        {
+          "statName": "special-defense",
+          "value": 50
+        },
+        {
+          "statName": "speed",
+          "value": 50
+        }
+      ],
+      "moves": [
+        "round",
+        "iron-head",
+        "shock-wave",
+        "sleep-talk"
+      ]
+    },
+    {
+      "name": "dragonair",
+      "type": "dragon",
+      "dex": 148,
+      "height": 40,
+      "weight": 165,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 61
+        },
+        {
+          "statName": "attack",
+          "value": 84
+        },
+        {
+          "statName": "defense",
+          "value": 65
+        },
+        {
+          "statName": "special-attack",
+          "value": 70
+        },
+        {
+          "statName": "special-defense",
+          "value": 70
+        },
+        {
+          "statName": "speed",
+          "value": 70
+        }
+      ],
+      "moves": [
+        "double-edge",
+        "sleep-talk",
+        "attract",
+        "captivate"
+      ]
+    },
+    {
+      "name": "dragonite",
+      "type": "dragon",
+      "dex": 149,
+      "height": 22,
+      "weight": 2100,
+      "stats": [
+        {
+          "statName": "hp",
+          "value": 91
+        },
+        {
+          "statName": "attack",
+          "value": 134
+        },
+        {
+          "statName": "defense",
+          "value": 95
+        },
+        {
+          "statName": "special-attack",
+          "value": 100
+        },
+        {
+          "statName": "special-defense",
+          "value": 100
+        },
+        {
+          "statName": "speed",
+          "value": 80
+        }
+      ],
+      "moves": [
+        "dragon-claw",
+        "fly",
+        "hidden-power",
+        "headbutt"
+      ]
+    }
+  ]
+}
